@@ -5,3 +5,9 @@
 ### Day 2: July 1st, 2020
 **Today's Progess**:
  * Started learning [Gatsby](https://www.gatsbyjs.org/) to build my personal blog. Completed Gatsby's official tutorial.
+### Day 3: July 3rd, 2020
+**Today's Progess**:
+ * Started learning Ionic Framework to build a Score keeper app
+### Day 4: July 4th, 2020
+**Today's Progress**:
+ * Built a part of the score keeper app using react framework to later convert it to Ionic React. [ScoreKeeper](https://github.com/nitinpasula/ScoreKeeper) Repository
