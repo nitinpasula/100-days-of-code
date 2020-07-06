@@ -11,3 +11,9 @@
 ### Day 4: July 4th, 2020
 **Today's Progress**:
  * Built a part of the score keeper app using react framework to later convert it to Ionic React. [ScoreKeeper](https://github.com/nitinpasula/ScoreKeeper) Repository
+### Day 5: July 5th, 2020
+**Today's Progress**: 
+
+Continuing building score keeper app, [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
+  1. Included redux to manage state of the app
+  2. An ugly version of the app is ready to track scores of players.
