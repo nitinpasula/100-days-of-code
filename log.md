@@ -17,3 +17,7 @@
 Continuing building score keeper app, [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
   1. Included redux to manage state of the app
   2. An ugly version of the app is ready to track scores of players.
+### Day 6: July 6th, 2020
+**Today's Progress**:
+
+Working on score keeper app, [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
