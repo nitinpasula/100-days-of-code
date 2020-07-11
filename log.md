@@ -21,3 +21,10 @@ Continuing building score keeper app, [commit log](https://github.com/nitinpasul
 **Today's Progress**:
 
 Working on score keeper app, [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
+### Day 7: July10th, 2020
+**Today's Progress**:
+ * Did a referher of html basics from freecodecamp exercises
+ * Removed react bootsrap components from the score keeper 
+ * started building my own components using basic html, css, js.
+ 
+[commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
