@@ -28,3 +28,12 @@ Working on score keeper app, [commit log](https://github.com/nitinpasula/ScoreKe
  * started building my own components using basic html, css, js.
  
 [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
+
+### Day 8: July11th, 2020
+**Today's Progress**:
+ScoreKeeper app progress:
+ * Creaed redux store, actions, reducer
+ * Connected components to use redux state
+ * Hooked up redux dev tools for debugging
+ 
+[commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
