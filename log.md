@@ -37,3 +37,10 @@ ScoreKeeper app progress:
  * Hooked up redux dev tools for debugging
  
 [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
+
+### Day 9: July12th, 2020
+**Today's Progress**:
+ScoreKeeper app progress:
+ * Added functionality to remove a user
+ 
+[commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
