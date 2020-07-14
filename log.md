@@ -44,3 +44,12 @@ ScoreKeeper app progress:
  * Added functionality to remove a user
  
 [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
+
+### Day 10: July13th, 2020
+**Today's Progress**:
+ScoreKeeper app progress:
+ * Added functionality to declear winner
+ * Added functionality to show history of scoring
+ * apart from adding css, app functionality is completed.
+ 
+[commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
