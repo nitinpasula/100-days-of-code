@@ -53,3 +53,8 @@ ScoreKeeper app progress:
  * apart from adding css, app functionality is completed.
  
 [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
+
+### Day 11: July14th, 2020
+**Today's Progress**:
+ * Half way through CSS exercises on freecodecamp.
+
