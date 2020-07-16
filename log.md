@@ -21,7 +21,7 @@ Continuing building score keeper app, [commit log](https://github.com/nitinpasul
 **Today's Progress**:
 
 Working on score keeper app, [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
-### Day 7: July10th, 2020
+### Day 7: July 10th, 2020
 **Today's Progress**:
  * Did a referher of html basics from freecodecamp exercises
  * Removed react bootsrap components from the score keeper 
@@ -29,7 +29,7 @@ Working on score keeper app, [commit log](https://github.com/nitinpasula/ScoreKe
  
 [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
 
-### Day 8: July11th, 2020
+### Day 8: July 11th, 2020
 **Today's Progress**:
 ScoreKeeper app progress:
  * Creaed redux store, actions, reducer
@@ -38,14 +38,14 @@ ScoreKeeper app progress:
  
 [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
 
-### Day 9: July12th, 2020
+### Day 9: July 12th, 2020
 **Today's Progress**:
 ScoreKeeper app progress:
  * Added functionality to remove a user
  
 [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
 
-### Day 10: July13th, 2020
+### Day 10: July 13th, 2020
 **Today's Progress**:
 ScoreKeeper app progress:
  * Added functionality to declear winner
@@ -54,7 +54,10 @@ ScoreKeeper app progress:
  
 [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
 
-### Day 11: July14th, 2020
+### Day 11: July 14th, 2020
 **Today's Progress**:
  * Half way through CSS exercises on freecodecamp.
-
+### Day 12: July 15th, 2020
+**Today's Progress**:
+ * ScoreKeeper app progress
+ [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
