@@ -61,3 +61,8 @@ ScoreKeeper app progress:
 **Today's Progress**:
  * ScoreKeeper app progress
  [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
+### Day 13: July 17th, 2020
+**Today's Progress**:
+ * Made score keeper app look little nicer with CSS
+ [commit log](https://github.com/nitinpasula/ScoreKeeper/commits/master)
+ 
